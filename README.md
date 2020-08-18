@@ -1,13 +1,11 @@
-#ted1001firmwares
-Extracted the firmwares of the MTU and RDU (locked version) 
-Used a pickit 3 programmer
-Programming header pinouts for both MTU and RDU are the same.
+Extracted firmwares of the MTU and RDU (locked version)  <br> 
+Used a pickit 3 programmer<br>
+Programming header pinouts for both MTU and RDU are the same.<br><br>
 
-Programming header pinout
-1.MCLR
-2.VDD
-3.VSS
-4.N/A
-5.PGC
-6.PGD
-
+Programming header pinout<br>
+1.MCLR<br>
+2.VDD<br>
+3.VSS<br>
+4.N/A<br>
+5.PGC<br>
+6.PGD<br>
